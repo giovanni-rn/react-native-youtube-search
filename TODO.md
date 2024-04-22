@@ -1,4 +1,4 @@
-- Player modal
-- Styling
+- Styling (CSS-in-JS)
 - Refactor (export, modules, imports)
-- Documentation (jsdoc, readme)
+- Documentation (jsdoc, readme, package.json)
+- Export to APK with Expo and test on my Samsung

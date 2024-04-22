@@ -1,15 +1,15 @@
 import { useEffect, useState } from "react";
-import { View, Text, FlatList } from "react-native";
-import { Video } from "@/utils/types/Video";
-import { fetchSearchResults } from "@/utils/controllers/SearchResults";
-import VideoListCard from "@/components/VideoListCard";
+import { View, Text } from "react-native";
+import { VideoItem } from "@/utils/types/VideoItem";
+import { getSearchResults } from "@/utils/controllers/SearchResults";
+import VideoList from "@/components/VideoList";
 
 export default function Home() {
-  const [fetchedVideos, setFetchedVideos] = useState<Video[]>([]);
+  const [fetchedVideos, setFetchedVideos] = useState<VideoItem[]>([]);
 
   useEffect(() => {
     async function fetchHomeFeed() {
-      const results = await fetchSearchResults("Zillakami");
+      const results = await getSearchResults("Tutoriel React Native");
       setFetchedVideos(results);
     }
     fetchHomeFeed();
@@ -18,10 +18,7 @@ export default function Home() {
   return (
     <View>
       <Text>Home</Text>
-      <FlatList
-        data={fetchedVideos}
-        renderItem={({ item }) => <VideoListCard item={item} />}
-      />
+      <VideoList fetchedVideos={fetchedVideos} />
     </View>
   );
 }

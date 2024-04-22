@@ -1,0 +1,802 @@
+{
+  "contents": [
+    {
+      "type": "video",
+      "video": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/ytc/AIdro_nbpmO4qfGbsMpTI1L80F4ObHRJxHP5qYz_PNHdaXUT3OY=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Validé",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@Fireship",
+          "channelId": "UCsBjURrPoezykLs9EqgamOA",
+          "title": "Fireship"
+        },
+        "badges": ["4K"],
+        "descriptionSnippet": "React Native allows developers to build cross-platform apps for iOS, Android, and the Web from a single JavaScript codebase.",
+        "isLiveNow": false,
+        "lengthSeconds": 137,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/gvkqT_Uoahw/mqdefault_6s.webp?du=3000&sqp=CPD5l7EG&rs=AOn4CLCjzbOXuk4A8uHuUYRo0UXwiaOLPg",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "il y a 2 ans",
+        "stats": {
+          "views": 839454
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/gvkqT_Uoahw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJPJIjJlDG8B7lxV0z4KOH8bi9ww",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/gvkqT_Uoahw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDevgUWo8zWdZ_etD3xWmSJOhRRuQ",
+            "width": 720
+          }
+        ],
+        "title": "React Native in 100 Seconds",
+        "videoId": "gvkqT_Uoahw"
+      }
+    },
+    {
+      "playlist": {
+        "author": {
+          "badges": [
+            {
+              "text": "Validé",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@Codevolution",
+          "channelId": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+          "title": "Codevolution · Playlist"
+        },
+        "playlistId": "PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1",
+        "stats": {
+          "videos": 82
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/hzzCveeczSQ/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCYn9O9zGgYpQkoQWUB-kVmJVRFeg",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/hzzCveeczSQ/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLANPQtW7cMZUb4vwqKaUWfxPQ2NLQ",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/hzzCveeczSQ/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBCjQvtMICFDFhzwzjQBTbhcKqHQg",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/hzzCveeczSQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA-mWze0M1nsOCv2TZNid_Q5DzWaQ",
+            "width": 336
+          }
+        ],
+        "title": "React Native Tutorial for Beginners",
+        "updatedTimeText": null
+      },
+      "type": "playlist"
+    },
+    {
+      "playlist": {
+        "author": {
+          "badges": [
+            {
+              "text": "Validé",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@NetNinja",
+          "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+          "title": "Net Ninja · Playlist"
+        },
+        "playlistId": "PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ",
+        "stats": {
+          "videos": 35
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/ur6I5m2nTvk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD-gm40jl70cM6LkMSBrphdCyD8iQ",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/ur6I5m2nTvk/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA3jt1iqHoYpMcT-rxDOcK5iqqDXw",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/ur6I5m2nTvk/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCZ8yO1Rx049GltLD3tegZXiHN3OQ",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/ur6I5m2nTvk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLADct4SKlpW5t4x2QnpeCI7NhrWWQ",
+            "width": 336
+          }
+        ],
+        "title": "React Native Tutorial for Beginners",
+        "updatedTimeText": null
+      },
+      "type": "playlist"
+    },
+    {
+      "type": "video",
+      "video": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Validé",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@javascriptmastery",
+          "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+          "title": "JavaScript Mastery"
+        },
+        "badges": [],
+        "descriptionSnippet": "Master the foundations of React Native and build your first full-stack mobile app. ⭐ Appwrite: https://apwr.dev/JavaScriptMastery ...",
+        "isLiveNow": false,
+        "lengthSeconds": 16111,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/ZBCUegTZF7M/mqdefault_6s.webp?du=3000&sqp=CKSRmLEG&rs=AOn4CLAzv6hvhDX3bLJSIzgrUhpjXb-TtQ",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "il y a 9 jours",
+        "stats": {
+          "views": 107596
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/ZBCUegTZF7M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATnCyB7dMU-ykrU3tGT05Yw1kR-A",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/ZBCUegTZF7M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQSSAX7m9iqM7bIvPxdjf84dUzrg",
+            "width": 720
+          }
+        ],
+        "title": "React Native Course for Beginners in 2024 | Build a Full Stack React Native App",
+        "videoId": "ZBCUegTZF7M"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/ebu9ZksIXw0tUWBZd6rtk-It8VGSk8AdfSI_eGR-fl6WGet9LnVPngNQCmjdLJeGXpuylwYInQ=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Validé",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@programmingwithmosh",
+          "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+          "title": "Programming with Mosh"
+        },
+        "badges": ["Sous-titres"],
+        "descriptionSnippet": "Build amazing iOS & Android apps with React Native! This beginner-friendly tutorial gets you started. Ready for a deep dive?",
+        "isLiveNow": false,
+        "lengthSeconds": 7590,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/0-S5a0eXPoc/mqdefault_6s.webp?du=3000&sqp=CP_Xl7EG&rs=AOn4CLDlfperl4bKq3EBcU6bZfoK5YinYg",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "il y a 3 ans",
+        "stats": {
+          "views": 2946857
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/0-S5a0eXPoc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPwGSKVb63N4c4DIpQz7-yJ-i1vQ",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/0-S5a0eXPoc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYxSooYDrdhPoTaTWQt9BQmo9Nxw",
+            "width": 720
+          }
+        ],
+        "title": "React Native Tutorial for Beginners - Build a React Native App",
+        "videoId": "0-S5a0eXPoc"
+      }
+    },
+    {
+      "playlist": {
+        "author": {
+          "badges": [
+            {
+              "text": "Validé",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@HiteshChoudharydotcom",
+          "channelId": "UCXgGY0wkgOzynnHvSEVmE3A",
+          "title": "Hitesh Choudhary · Playlist"
+        },
+        "playlistId": "PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c",
+        "stats": {
+          "videos": 58
+        },
+        "thumbnails": [
+          {
+            "height": 94,
+            "url": "https://i.ytimg.com/vi/kGtEax1WQFg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA5nN8f01Jj4_JY4Ip7PUBRg4Wi7Q",
+            "width": 168
+          },
+          {
+            "height": 110,
+            "url": "https://i.ytimg.com/vi/kGtEax1WQFg/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDD2qMTA4GKInpsU05I5UrCfYghmQ",
+            "width": 196
+          },
+          {
+            "height": 138,
+            "url": "https://i.ytimg.com/vi/kGtEax1WQFg/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB8XnOgNun0XXHjVeMs40OCO7G-YA",
+            "width": 246
+          },
+          {
+            "height": 188,
+            "url": "https://i.ytimg.com/vi/kGtEax1WQFg/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCzJ-c5J24r1hwAs4jCDlztdAt4dw",
+            "width": 336
+          }
+        ],
+        "title": "React Native Mastery with 10 apps",
+        "updatedTimeText": null
+      },
+      "type": "playlist"
+    },
+    {
+      "type": "video",
+      "video": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/-7THQ3F7XczON7lUlwCuc4HZLMXhoRS0Yuo1UqsO4a0u6JaPQCiHkqJJUy8OurLwcroSZYjiOeE=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [],
+          "canonicalBaseUrl": "/@galaxies_dev",
+          "channelId": "UCZZPgUIorPao48a1tBYSDgg",
+          "title": "Simon Grimm"
+        },
+        "badges": [],
+        "descriptionSnippet": "Let's talk about why I enjoy React Native so much and why you should maybe give it a try as well. Learn React Native FAST: ...",
+        "isLiveNow": false,
+        "lengthSeconds": 726,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/q5aHNr4jsHM/mqdefault_6s.webp?du=3000&sqp=CMiBmLEG&rs=AOn4CLDf3W4M5Bys3ILzy4obGggfhrcasw",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "il y a 4 mois",
+        "stats": {
+          "views": 33775
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/q5aHNr4jsHM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5hzptmSxLhwTSjKKybs-54Saxzg",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/q5aHNr4jsHM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuG4IX9-c7fRGlnPo7jFBAQPn9BQ",
+            "width": 720
+          }
+        ],
+        "title": "Why I moved to React Native",
+        "videoId": "q5aHNr4jsHM"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/ytc/AIdro_k7J8-LWCa5QLDnY3x9kaArgJoSSMory4hgkYSBOFgvEg=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Validé",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@ThePrimeTimeagen",
+          "channelId": "UCUyeluBRhGPCW4rPe_UvBZQ",
+          "title": "ThePrimeTime"
+        },
+        "badges": [],
+        "descriptionSnippet": "Recorded live on twitch, GET IN https://twitch.tv/ThePrimeagen Reviewed Twitter thread: ...",
+        "isLiveNow": false,
+        "lengthSeconds": 518,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/G9mS9iFSmNs/mqdefault_6s.webp?du=3000&sqp=CPzll7EG&rs=AOn4CLA2mk4iQ-dzm5t_Z2BilpdSj12huw",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "il y a 8 mois",
+        "stats": {
+          "views": 107833
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/G9mS9iFSmNs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwaySDk7FKEKUbbSd1M7Fq_4-jYQ",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/G9mS9iFSmNs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC401-3N7J-a1Fh9QrYjDbLzNTn8g",
+            "width": 720
+          }
+        ],
+        "title": "ONLY USE REACT (Flutter Sucks) - ITS INDUSTRY STANDARD | Prime Reacts",
+        "videoId": "G9mS9iFSmNs"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/suhIPKn1JKXf5wKzWNnCbfCd1nAyuYzDlGLpictovk0c_9Dw0QUw-oFrRsEM4-DVlGCS8y0Sz-g=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [],
+          "canonicalBaseUrl": "/@zerodegreecoder",
+          "channelId": "UCEPxAo8fKEqgDyLPOmhDt-g",
+          "title": "Zero Degree Coder"
+        },
+        "badges": [],
+        "descriptionSnippet": "In this comprehensive course, you'll master React Native by building a cutting-edge Ecommerce mobile app from scratch!",
+        "isLiveNow": false,
+        "lengthSeconds": 13711,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/CkqlJwTt9DU/mqdefault_6s.webp?du=3000&sqp=CKT8l7EG&rs=AOn4CLCgCJ2hdJkOyhKfk8DUuEYjZGwAjw",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "il y a 4 semaines",
+        "stats": {
+          "views": 3460
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/CkqlJwTt9DU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCttcNVMvqhhVXv4ktVRoXEbdTUJg",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/CkqlJwTt9DU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSxQ1XxAkTLlXIQUFYZ1gHIPPoKA",
+            "width": 720
+          }
+        ],
+        "title": "Build Ecommerce App With React Native| Build Online Store App in React Native",
+        "videoId": "CkqlJwTt9DU"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Validé",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@t3dotgg",
+          "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+          "title": "Theo - t3․gg"
+        },
+        "badges": ["4K"],
+        "descriptionSnippet": "Huge shoutout to Alan for making such a bold move and also sharing it with us all. Expo has made a great set of tools, really cool ...",
+        "isLiveNow": false,
+        "lengthSeconds": 1250,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/gntZth3mIbM/mqdefault_6s.webp?du=3000&sqp=CIj1l7EG&rs=AOn4CLAcGyQMarwnxYYYs02mmvrstHm2zw",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "il y a 3 mois",
+        "stats": {
+          "views": 160616
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/gntZth3mIbM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAS0Vsak9WIvoyAl0igkx-FYtUamw",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/gntZth3mIbM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1YwXEBx-DZPO8gXGua00tDVBNcQ",
+            "width": 720
+          }
+        ],
+        "title": "Moving Off React Native",
+        "videoId": "gntZth3mIbM"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/36zPj3LivPiJRnMdn-WMQmLy--w0JZcvURjlgdL9OEufKx8_aDJTkRaHDscu2MJR0b93ZcR_eg=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [],
+          "canonicalBaseUrl": "/@tubeguruji",
+          "channelId": "UC33Tc4FCgd_to314_b2hNTg",
+          "title": "TubeGuruji"
+        },
+        "badges": [],
+        "descriptionSnippet": "React Native Full Stack App | React Native Project | Full Tutorial | Expo, HyGraph \"Master React Native Home Service App ...",
+        "isLiveNow": false,
+        "lengthSeconds": 16106,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/Zs-W12TpAeM/mqdefault_6s.webp?du=3000&sqp=CJyAmLEG&rs=AOn4CLA_WzBlQeQG_32F4TqTI_A8Tb7hMg",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "il y a 3 mois",
+        "stats": {
+          "views": 96387
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/Zs-W12TpAeM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRksMAvMpniwt1qdS_zYqfVUSRYw",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/Zs-W12TpAeM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLzv13TaCAMIg44Di0sEhQVwT4ww",
+            "width": 720
+          }
+        ],
+        "title": "React Native Full Stack App | React Native Project | Full Tutorial | Expo, HyGraph",
+        "videoId": "Zs-W12TpAeM"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/tXKxCqBx51L-0InM7zS4Gc_tBPG_2qUMXW7nWBmPbrW9KiAXNqY5n5kSvFlhgJC33rFSKYGFuA=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [],
+          "canonicalBaseUrl": "/@KodapsAcademy",
+          "channelId": "UC2DOovF-OjIQ6nHClUyLKKQ",
+          "title": "Kodaps Academy"
+        },
+        "badges": ["4K", "Sous-titres"],
+        "descriptionSnippet": "Hey there, friends! Today, we'll unravel the differences between ReactJS and React Native. Are you ready to dive into the world of ...",
+        "isLiveNow": false,
+        "lengthSeconds": 300,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/MSgIRdyJ6rk/mqdefault_6s.webp?du=3000&sqp=CLH4l7EG&rs=AOn4CLCYKF-ZK8GNFKjrEvbsT0O2wTNnng",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "il y a 1 an",
+        "stats": {
+          "views": 24642
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/MSgIRdyJ6rk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACH_XKqzEKdr5ZLo6Myynlh4Rt2A",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/MSgIRdyJ6rk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBt9jDISA_4wbvp4kLl4B7o6ow6BQ",
+            "width": 720
+          }
+        ],
+        "title": "React Native vs React JS in 2024: Differences and Shared Features",
+        "videoId": "MSgIRdyJ6rk"
+      }
+    },
+    {
+      "type": "video",
+      "video": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/ytc/AIdro_kotL-OQVXsay2vKRujBvNWcY47UZUwC-axNozc8Mzdutk=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Validé",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@CleverProgrammer",
+          "channelId": "UCqrILQNl5Ed9Dz6CGMyvMTQ",
+          "title": "Clever Programmer"
+        },
+        "badges": ["4K"],
+        "descriptionSnippet": "I cover my experience with learning React Native in 1 day. I document what I've learned and I share the golden nuggets and ...",
+        "isLiveNow": false,
+        "lengthSeconds": 389,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/2tjXpbs8Gdc/mqdefault_6s.webp?du=3000&sqp=CKqCmLEG&rs=AOn4CLCvuSBvTeGFeqnqeLAzuezh9DmP2Q",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "il y a 2 ans",
+        "stats": {
+          "views": 182875
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/2tjXpbs8Gdc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9Bzp_UToZBKOgFVRhX1T53aL2xw",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/2tjXpbs8Gdc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2eKUIy2TYkUgtgYqCaO6eMmH-zQ",
+            "width": 720
+          }
+        ],
+        "title": "how i learned React Native in 1 day (my experience)",
+        "videoId": "2tjXpbs8Gdc"
+      }
+    }
+  ],
+  "cursorNext": "EpkFEgxSZWFjdCBOYXRpdmUaiAVTQlNDQVF0bmRtdHhWRjlWYjJGb2Q0SUJJbEJNUXpONU9DMXlSa2gyZDJocFVVcEVNV1JwTkdWU1ZrNHpNRmRYUTFoclp6R0NBU0pRVERSalZYaGxSMnRqUXpscGVGQlZMVkZyVTJOdlVrSldlSFJRVUhwV2FuSlJnZ0VMV2tKRFZXVm5WRnBHTjAyQ0FRc3dMVk0xWVRCbFdGQnZZNElCSWxCTVVrRldOamxrVXpGMVYxTnFRa0pLTFdWblRrNVBaRFJ0WkdKc2RERlFOR09DQVNKUVRFdFhUVVF3TURsUk5IRlRTRWxOUmpaVGQzazBWbEZ6TlhvMlZUazNURXB0Z2dFaVVFdzRhMlphZVhBdExXZEZXSE0wV1hOVFRIUkNNMHR4UkhSa1QwWklUV3BYV29JQkMxSXdWMkZSU0VWWGJuZDNnZ0VMVFdoNU5WOUVjRk5FYUUyQ0FRdHRTak5pUjNaNU1GZEJXWUlCQ3padlJuVjNhRWxwWW04MGdnRUxiMkpJTUZCdlgxSmtWMnVDQVF0Q1pGQnJWbXcwV1RoVVVZSUJDMmxFV2tKbFNXZGphWGhyZ2dFUFVrUlJUV05mTVdKQ1RHWkpkVVJqZ2dFaVVFeExWMDFFTURBNVVUUnhWQzF6VEVOb1FYazFSRzFxWWt4MFZUQTROSFV0TUlJQklsQk1Obk5ZUTBJMlVHZHhaamxTWWt4aGVHMXBVMUZSV0hBdFlUQmZhalUyZUdXQ0FRdElaalJOU2tnd2FrUmlOSUlCSWxCTVV6RmhhMWczWjFwdmVFVnFZVnBMY2tWdmFVbEdMWFZhVEdwZmJUSjJjV2l5QVFZS0JBZ2FFQUxxQVFRSUFSQWsYgeDoGCILc2VhcmNoLWZlZWQ%3D",
+  "didYouMean": null,
+  "estimatedResults": 26335654,
+  "filterGroups": [
+    {
+      "filters": [
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdJSUFRJTNEJTNE",
+          "label": "Dernière heure",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdJSUFnJTNEJTNE",
+          "label": "Aujourd'hui",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdJSUF3JTNEJTNE",
+          "label": "Cette semaine",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdJSUJBJTNEJTNE",
+          "label": "Ce mois-ci",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdJSUJRJTNEJTNE",
+          "label": "Cette année",
+          "selected": false
+        }
+      ],
+      "title": "Date d'ajout"
+    },
+    {
+      "filters": [
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdJUUFRJTNEJTNE",
+          "label": "Vidéo",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdJUUFnJTNEJTNE",
+          "label": "Chaîne",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdJUUF3JTNEJTNE",
+          "label": "Playlist",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdJUUJBJTNEJTNE",
+          "label": "Film",
+          "selected": false
+        }
+      ],
+      "title": "Type"
+    },
+    {
+      "filters": [
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdJWUFRJTNEJTNE",
+          "label": "Moins de 4 minutes",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdJWUF3JTNEJTNE",
+          "label": "Entre 4 et 20 minutes",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdJWUFnJTNEJTNE",
+          "label": "Plus de 20 minutes",
+          "selected": false
+        }
+      ],
+      "title": "Durée"
+    },
+    {
+      "filters": [
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdKQUFRJTNEJTNE",
+          "label": "En direct",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdKd0FRJTNEJTNE",
+          "label": "4K",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdJZ0FRJTNEJTNE",
+          "label": "HD",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdJb0FRJTNEJTNE",
+          "label": "Sous-titres",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdJd0FRJTNEJTNE",
+          "label": "Creative Commons",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdKNEFRJTNEJTNE",
+          "label": "360°",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdQUUFRRSUzRA==",
+          "label": "VR180",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdJNEFRJTNEJTNE",
+          "label": "3D",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdQSUFRRSUzRA==",
+          "label": "HDR",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdPNEFRRSUzRA==",
+          "label": "Lieu",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmRWdKSUFRJTNEJTNE",
+          "label": "Acheté",
+          "selected": false
+        }
+      ],
+      "title": "Caractéristiques"
+    },
+    {
+      "filters": [
+        {
+          "cursorSelect": null,
+          "label": "Pertinence",
+          "selected": true
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmQ0FJJTNE",
+          "label": "Date de mise en ligne",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmQ0FNJTNE",
+          "label": "Nombre de vues",
+          "selected": false
+        },
+        {
+          "cursorSelect": "UmVhY3QgTmF0aXZlJiYmQ0FFJTNE",
+          "label": "Avis",
+          "selected": false
+        }
+      ],
+      "title": "Trier par"
+    }
+  ],
+  "refinements": []
+}

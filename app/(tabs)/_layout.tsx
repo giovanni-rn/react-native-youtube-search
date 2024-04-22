@@ -40,6 +40,14 @@ export default function TabLayout() {
           tabBarIcon: ({ color }) => <TabBarIcon name="search" color={color} />,
         }}
       />
+      <Tabs.Screen
+        name="video/[id]"
+        options={{
+          title: "Lecteur vidéo",
+          tabBarIcon: ({ color }) => <TabBarIcon name="play" color={color} />,
+          href: null,
+        }}
+      />
     </Tabs>
   );
 }

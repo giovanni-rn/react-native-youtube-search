@@ -1,24 +1,24 @@
-export interface Video {
+export interface VideoItem {
     type: "video"
     video: {
         lengthSeconds: number
-        movingThumbnails: Thumbnail[]
+        movingThumbnails: Image[]
         publishedTimeText: string
         stats: {
             views: number
         }
-        thumbnails: Thumbnail[]
+        thumbnails: Image[]
         title: string
         videoId: string
         author: {
-            avatar: Thumbnail
+            avatar: Image
             channelId: string
             title: string
         }
     }
 }
 
-type Thumbnail = {
+export type Image = {
     height: number
     url: string
     width: number

@@ -1,11 +1,15 @@
-import { Video } from "../types/Video";
+import { VideoItem } from "../types/VideoItem";
+/* MOCK-start */
+import mockSearchResults from "../../assets/mock/SearchResults.json"
+const typedMockSearchResults = mockSearchResults as unknown as { contents: VideoItem[] }
+/* MOCK-end */
 
 /**
  * Search list of videos
  * @fromInput Query string
  * @return List of found videos
  */
-export const fetchSearchResults = async (query: string): Promise<Video[] | []> => {
+export const getSearchResults = async (query: string): Promise<VideoItem[] | []> => {
     console.log("QUERY : ", query);
     const url = `https://youtube138.p.rapidapi.com/search/?q=${query}&hl=fr&gl=FR`;
     console.log("URL : ", url);
@@ -17,10 +21,14 @@ export const fetchSearchResults = async (query: string): Promise<Video[] | []> =
         }
     };
     try {
-        const response = await fetch(url, options);
-        const result = await response.json();
-        console.log(`Fetched ${result.contents.length} videos`);
-        return result.contents
+        // const response = await fetch(url, options);
+        // const result = await response.json();
+        // console.log(`Fetched ${result.contents.length} videos`);
+        // return result.contents
+        /* MOCK-start */
+        console.log(`Mocked ${typedMockSearchResults.contents.length} videos`);
+        return typedMockSearchResults.contents
+        /* MOCK-end */
     } catch (error) {
         console.error(error);
         return []

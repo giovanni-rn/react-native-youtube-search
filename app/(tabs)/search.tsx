@@ -1,16 +1,16 @@
 import { useState } from "react";
-import { View, Text, FlatList } from "react-native";
-import { Video } from "@/utils/types/Video";
-import { fetchSearchResults } from "@/utils/controllers/SearchResults";
-import VideoListCard from "@/components/VideoListCard";
+import { View, Text } from "react-native";
+import { VideoItem } from "@/utils/types/VideoItem";
+import { getSearchResults } from "@/utils/controllers/SearchResults";
 import SearchForm from "@/components/SearchForm";
+import VideoList from "@/components/VideoList";
 
 export default function Search() {
   const [query, setQuery] = useState<string>("");
-  const [fetchedVideos, setFetchedVideos] = useState<Video[]>([]);
+  const [fetchedVideos, setFetchedVideos] = useState<VideoItem[]>([]);
 
   async function handleSearch() {
-    const results = await fetchSearchResults(query);
+    const results = await getSearchResults(query);
     setFetchedVideos(results);
   }
 
@@ -22,10 +22,7 @@ export default function Search() {
         setQuery={setQuery}
         handleSearch={handleSearch}
       />
-      <FlatList
-        data={fetchedVideos}
-        renderItem={({ item }) => <VideoListCard item={item} />}
-      />
+      <VideoList fetchedVideos={fetchedVideos} />
     </View>
   );
 }

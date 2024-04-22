@@ -1,10 +1,11 @@
 import React from "react";
-import { View, Image, Text, TouchableOpacity } from "react-native";
-import { Video } from "@/utils/types/Video";
+import { View, Image, Text } from "react-native";
+import { VideoItem } from "@/utils/types/VideoItem";
+import { Link } from "expo-router";
 
-export default function VideoListCard({ item }: { item: Video }) {
+export default function VideoListCard({ item }: { item: VideoItem }) {
   return (
-    <TouchableOpacity onPress={() => console.log(item.video.thumbnails[0].url)}>
+    <Link replace href={"/video/" + item.video.videoId}>
       <View>
         <Image
           source={{ uri: item.video.thumbnails[0].url }}
@@ -21,6 +22,6 @@ export default function VideoListCard({ item }: { item: Video }) {
         </Text>
         <Text>{item.video.stats.views} Views</Text>
       </View>
-    </TouchableOpacity>
+    </Link>
   );
 }
