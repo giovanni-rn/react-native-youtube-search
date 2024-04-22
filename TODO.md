@@ -1,0 +1,4 @@
+- Player modal
+- Styling
+- Refactor (export, modules, imports)
+- Documentation (jsdoc, readme)

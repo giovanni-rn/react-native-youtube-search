@@ -1,4 +1,4 @@
-const tintColorLight = '#2f95dc';
+const tintColorLight = 'red'; // Icon color when screen active
 const tintColorDark = '#fff';
 
 export default {
