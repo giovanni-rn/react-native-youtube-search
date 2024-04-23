@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { View, Text } from "react-native";
+import { View } from "react-native";
 import { VideoItem } from "@/utils/types/VideoItem";
 import { getSearchResults } from "@/utils/controllers/SearchResults";
 import VideoList from "@/components/VideoList";
@@ -17,7 +17,6 @@ export default function Home() {
 
   return (
     <View>
-      <Text>Home</Text>
       <VideoList fetchedVideos={fetchedVideos} />
     </View>
   );

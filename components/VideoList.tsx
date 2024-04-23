@@ -6,6 +6,7 @@ import VideoListCard from "./VideoCard";
 export default function VideoList({ fetchedVideos }: VideoListProps) {
   return (
     <FlatList
+      style={{ padding: 10 }}
       data={fetchedVideos.filter(
         (item) => item.type === "video" && item.video.thumbnails.length > 0
       )}

@@ -1,4 +1,5 @@
-- Styling (CSS-in-JS)
-- Refactor (export, modules, imports)
-- Documentation (jsdoc, readme, package.json)
-- Export to APK with Expo and test on my Samsung
+- Router : (tabs)
+- API Search : VideoItem.ts, SearchResults.ts
+- index.tsx, VideoList.tsx et VideoListCard.tsx
+- [id].tsx
+- search.tsx et SearchForm.tsx

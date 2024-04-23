@@ -1,7 +1,7 @@
 import { VideoItem } from "../types/VideoItem";
 /* MOCK-start */
-import mockSearchResults from "../../assets/mock/SearchResults.json"
-const typedMockSearchResults = mockSearchResults as unknown as { contents: VideoItem[] }
+// import mockSearchResults from "../../assets/mock/SearchResults.json"
+// const typedMockSearchResults = mockSearchResults as unknown as { contents: VideoItem[] }
 /* MOCK-end */
 
 /**
@@ -21,13 +21,13 @@ export const getSearchResults = async (query: string): Promise<VideoItem[] | []>
         }
     };
     try {
-        // const response = await fetch(url, options);
-        // const result = await response.json();
-        // console.log(`Fetched ${result.contents.length} videos`);
-        // return result.contents
+        const response = await fetch(url, options);
+        const result = await response.json();
+        console.log(`Fetched ${result.contents.length} videos`);
+        return result.contents
         /* MOCK-start */
-        console.log(`Mocked ${typedMockSearchResults.contents.length} videos`);
-        return typedMockSearchResults.contents
+        // console.log(`Mocked ${typedMockSearchResults.contents.length} videos`);
+        // return typedMockSearchResults.contents
         /* MOCK-end */
     } catch (error) {
         console.error(error);

@@ -1,5 +1,5 @@
 import { FontAwesome } from "@expo/vector-icons";
-import { View, TextInput, Pressable } from "react-native";
+import { View, TextInput, Pressable, StyleSheet } from "react-native";
 
 export default function SearchForm({
   query,
@@ -7,7 +7,7 @@ export default function SearchForm({
   handleSearch,
 }: SearchFormProps) {
   return (
-    <View>
+    <View style={styles.searchForm}>
       <TextInput
         placeholder="Rechercher une vidéo..."
         value={query}
@@ -25,3 +25,13 @@ interface SearchFormProps {
   setQuery: React.Dispatch<React.SetStateAction<string>>;
   handleSearch: () => Promise<void>;
 }
+
+const styles = StyleSheet.create({
+  searchForm: {
+    width: "100%",
+    margin: 10,
+    display: "flex",
+    flexDirection: "row",
+    justifyContent: "space-around",
+  },
+});

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { View, Text } from "react-native";
+import { View } from "react-native";
 import { VideoItem } from "@/utils/types/VideoItem";
 import { getSearchResults } from "@/utils/controllers/SearchResults";
 import SearchForm from "@/components/SearchForm";
@@ -16,7 +16,6 @@ export default function Search() {
 
   return (
     <View>
-      <Text>Search</Text>
       <SearchForm
         query={query}
         setQuery={setQuery}

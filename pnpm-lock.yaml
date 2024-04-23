@@ -54,8 +54,8 @@ dependencies:
     specifier: ~0.19.6
     version: 0.19.10(react-dom@18.2.0)(react@18.2.0)
   react-native-webview:
-    specifier: ^13.8.6
-    version: 13.8.6(react-native@0.73.6)(react@18.2.0)
+    specifier: ^13.6.4
+    version: 13.6.4(react-native@0.73.6)(react@18.2.0)
 
 devDependencies:
   '@babel/core':
@@ -7563,8 +7563,8 @@ packages:
       - encoding
     dev: false
 
-  /react-native-webview@13.8.6(react-native@0.73.6)(react@18.2.0):
-    resolution: {integrity: sha512-jtZ9OgB2AN6rhDwto6dNL3PtOtl/SI4VN93pZEPbMLvRjqHfxiUrilGllL5fKAXq5Ry5FJyfUi82A4Ii8olZ7A==}
+  /react-native-webview@13.6.4(react-native@0.73.6)(react@18.2.0):
+    resolution: {integrity: sha512-AdgmaMBHPcyERTvng9eSGgHX6AleyUlSusWAxngSOSdiYGgHW81T6C5A8j/ImJAF9oZg0bQDxp43Hu56tzENZQ==}
     peerDependencies:
       react: '*'
       react-native: '*'

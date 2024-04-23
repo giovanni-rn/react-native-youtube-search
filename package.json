@@ -1,5 +1,7 @@
 {
   "name": "youtube-react-native",
+  "author": "Oriano DEV",
+  "description": "Tutorial for React Native with expo Router v3 using YouTube search API",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
@@ -29,7 +31,7 @@
     "react-native-safe-area-context": "4.8.2",
     "react-native-screens": "~3.29.0",
     "react-native-web": "~0.19.6",
-    "react-native-webview": "^13.8.6"
+    "react-native-webview": "^13.6.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
